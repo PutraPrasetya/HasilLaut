@@ -11,3 +11,6 @@ Hasil Laut implementing HTML and Bootstrap as front-end, PHP as back-end, and My
 5. Open mySQL
 6. Import "hasillaut.sql"
 7. Run local host to open the website.
+
+## ManualBook
+Access [Here](https://drive.google.com/file/d/1y0be4LSW6aay2XIFOEMEMWGD_W4ltzMK/view?usp=sharing)
